@@ -1,6 +1,6 @@
 ## Greetings!
 
-Welcome to my GitHub page!  I am in the process of transisting careers to become a data scientist.  I am currently preparing for the Designing and Implementing a Data Science Solution on Azure certification (DP-100).  
+Welcome to my GitHub page!  I am in the process of transisting careers to become a data scientist, and am currently preparing for the Designing and Implementing a Data Science Solution on Azure certification (DP-100).  
 
 I have included projects written in Python and R.  Two of my best projects are:
 
