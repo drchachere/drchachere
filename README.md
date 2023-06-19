@@ -4,5 +4,5 @@ Welcome to my GitHub page!  I am in the process of transisting careers to become
 
 I have included projects written in Python and R.  Two of my best projects are:
 
+<https://github.com/drchachere/NCAA-BB-Tourn-Qualification> - after scraping, aggregating and merging data, built and deployed a classification model as a Flask app
 <https://github.com/drchachere/Word-Prediction-NLP-Shiny-App> - a word prediction web application written in R
-<https://github.com/drchachere/Real-Estate-Sale-Type-Classification-Model> - a comparison of classification models in Python
